@@ -8,7 +8,7 @@ const App = () => {
   const rtcProps = {
     appId: 'f2dc1d76ada14dc2bf2e222360ba01c4',
     channel: 'test', 
-    token: '007eJxTYFCceTPHJF/X7dffvusmsZnfGEq8FgSKKc7mSUrJe9aySVKBIc0oJdkwxdwsMSXR0CQl2SgpzSjVyMjI2MwgKdHAMNlkbcbDlIZARoZNXZsZGRkgEMRnYShJLS5hYAAAHW4ffA==',
+    token: '007eJxTYCicnHiI0ZTrQpzZuSz1fkn7e994f5gsSvrKrffPSj9L4ZwCQ5pRSrJhirlZYkqioUlKslFSmlGqkZGRsZlBUqKBYbLJ2i0vUhoCGRnauzhZGRkgEMRnYShJLS5hYAAA8TMetg==',
   };
   
   const callbacks = {
